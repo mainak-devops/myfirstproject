@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "session_id": "542b42f0-0b45-4f5c-86ad-0f106974244e",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " but till now not so much But I might master it In faith I lie My thoughts were like unbridled children grown Too headstrong for their mother See we fools Why have I blabbd Who shall be true to us When we are so unsecret to ourselves But though I lovd you well I wood you not And yet good faith I wishd myself a man Or that we women had mens privilege Of speaking first Sweet bid me hold my tongue For in this rapture I shall surely speak The thing I shall repent See see your silence Cunning in dumbness from my weakness draws My very soul of counsel Stop my mouth TROILUS And shall albeit sweet music issues thence PANDARUS Pretty i faith CRESSIDA My lord I do beseech you pardon me Twas not my purpose thus to beg a kiss I am ashamd O heavens what have I done For this time will I take my leave my lord TROILUS Your leave sweet Cressid PANDARUS Leave And you take leave till tomorrow morning CRESSIDA Pray you content you TROILUS What offends you lady CRESSIDA Sir mine own company TROILUS You cannot shun yourself CRESSIDA Let me go and try I have a kind of self resides with you But an unkind self that itself will leave To be anothers fool I would be gone Where is my wit I know not what I speak TROILUS Well know they what they speak that speak so wisely CRESSIDA Perchance my lord I show more craft than love And fell so roundly to a large confession To angle for your thoughts but you are wise Or else you love not for to be wise and love Exceeds mans might that dwells with gods above TROILUS O that I thought it could be in a woman As if it can I will presume in you To feed for aye her lamp and flames of love To keep her constancy in plight and youth Outliving beautys outward with a mind That doth renew swifter than blood decays Or that persuasion could but thus convince me That my integrity and truth to you Might be affronted with the match and weight Of such a winnowed purity in love How were I then uplifted But alas I am as true as truths simplicity And simpler than the infancy of truth CRESSIDA In that Ill war with you TROILUS O virtuous fight When right with right wars who shall be most right True swains in love shall in the world to come Approve their truth by Troilus when their rhymes Full of protest of oath and big compare Want similes truth tird with iteration As true as steel as plantage to the moon As sun"
+            }
+          ],
+          "model": "granite4:350m",
+          "stream": true,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "aa617f8c-cfb2-4799-9c13-de5db35def15",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " To give the enemy way and to secure us By what we can which can no more but fly Alarum afar off If you be taen we then should see the bottom Of all our fortunes but if we haply scape As well we may if not through your neglect We shall to London get where you are loved And where this breach now in our fortunes made May readily be stopped Enter young Clifford YOUNG CLIFFORD But that my hearts on future mischief set I would speak blasphemy ere bid you fly But fly you must uncurable discomfit Reigns in the hearts of all our present parts Away for your relief And we will live To see their day and them our fortune give Away my lord away Exeunt SCENE III Fields near Saint Albans Alarum Retreat Enter York Richard Warwick and Soldiers with drum and colours YORK Of Salisbury who can report of him That winter lion who in rage forgets Aged contusions and all brush of time And like a gallant in the brow of youth Repairs him with occasion This happy day Is not itself nor have we won one foot If Salisbury be lost RICHARD My noble father Three times today I holp him to his horse Three times bestrid him thrice I led him off Persuaded him from any further act But still where danger was still there I met him And like rich hangings in a homely house So was his will in his old feeble body But noble as he is look where he comes Enter Salisbury Now by my sword well hast thou fought today SALISBURY By th mass so did we all I thank you Richard God knows how long it is I have to live And it hath pleased him that three times today You have defended me from imminent death Well lords we have not got that which we have Tis not enough our foes are this time fled Being opposites of such repairing nature YORK I know our safety is to follow them For as I hear the King is fled to London To call a present court of parliament Let us pursue him ere the writs go forth What says Lord Warwick Shall we after them WARWICK After them Nay before them if we can Now by my hand lords twas a glorious day Saint Albans battle won by famous York Shall be eternized in all age to come Sound drums and trumpets and to London all And more such days as these to us befall Exeunt THE THIRD PART OF KING HENRY THE SIXTH Contents ACT I Scene I London The Parliament House Scene II Sandal Castle Scene III Plains near Sandal Castle Scene IV The Same ACT II Scene I A plain near Mortimers Cross in Herefordshire Scene II Before York Scene III A field of battle between Towton and Saxton in"
+            }
+          ],
+          "model": "granite4:350m",
+          "stream": true,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "817088f7-8af2-4ec1-b429-7318abab17d9",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " Theres letters from my mother what th import is I know not yet PAROLLES Ay that would be known To th wars my boy to th wars He wears his honour in a box unseen That hugs his kickywicky here at home Spending his manly marrow in her arms Which should sustain the bound and high curvet Of Marss fiery steed To other regions France is a stable we that dwell int jades Therefore to th war BERTRAM It shall be so Ill send her to my house Acquaint my mother with my hate to her And wherefore I am fled write to the king That which I durst not speak His present gift Shall furnish me to those Italian fields Where noble fellows strike War is no strife To the dark house and the detested wife PAROLLES Will this caprichio hold in thee art sure BERTRAM Go with me to my chamber and advise me Ill send her straight away Tomorrow Ill to the wars she to her single sorrow PAROLLES Why these balls bound theres noise in it Tis hard A young man married is a man thats marrd Therefore away and leave her bravely go The king has done you wrong but hush tis so Exeunt SCENE IV Paris The Kings palace Enter Helena and Clown HELENA My mother greets me kindly is she well CLOWN She is not well but yet she has her health shes very merry but yet she is not well But thanks be given shes very well and wants nothing i the world but yet she is not well HELENA If she be very well what does she ail that shes not very well CLOWN Truly shes very well indeed but for two things HELENA What two things CLOWN One that shes not in heaven whither God send her quickly The other that shes in earth from whence God send her quickly Enter Parolles PAROLLES Bless you my fortunate lady HELENA I hope sir I have your good will to have mine own good fortune PAROLLES You had my prayers to lead them on and to keep them on have them still O my knave how does my old lady CLOWN So that you had her wrinkles and I her money I would she did as you say PAROLLES Why I say nothing CLOWN Marry you are the wiser man for many a mans tongue shakes out his masters undoing To say nothing to do nothing to know nothing and to have nothing is to be a great part of your title which is within a very little of nothing PAROLLES Away Thou art a knave CLOWN You should have said sir before a knave thou art a knave that is before me thou art a knave This had been truth sir"
+            }
+          ],
+          "model": "granite4:350m",
+          "stream": true,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "3d910fca-d96f-4229-99c7-a6c57fb17234",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " her scornful eyes Infect her beauty You fensuckd fogs drawn by the powerful sun To fall and blast her pride REGAN O the blest gods So will you wish on me when the rash mood is on LEAR No Regan thou shalt never have my curse Thy tenderhefted nature shall not give Thee oer to harshness Her eyes are fierce but thine Do comfort and not burn Tis not in thee To grudge my pleasures to cut off my train To bandy hasty words to scant my sizes And in conclusion to oppose the bolt Against my coming in Thou better knowst The offices of nature bond of childhood Effects of courtesy dues of gratitude Thy half o the kingdom hast thou not forgot Wherein I thee endowd REGAN Good sir to the purpose LEAR Who put my man i the stocks Tucket within CORNWALL What trumpets that REGAN I knowt my sisters this approves her letter That she would soon be here Enter Oswald Is your lady come LEAR This is a slave whose easy borrowed pride Dwells in the fickle grace of her he follows Out varlet from my sight CORNWALL What means your grace LEAR Who stockd my servant Regan I have good hope Thou didst not know ont Who comes here O heavens Enter Goneril If you do love old men if your sweet sway Allow obedience if yourselves are old Make it your cause send down and take my part To Goneril Art not ashamd to look upon this beard O Regan wilt thou take her by the hand GONERIL Why not by the hand sir How have I offended Alls not offence that indiscretion finds And dotage terms so LEAR O sides you are too tough Will you yet hold How came my man i the stocks CORNWALL I set him there sir but his own disorders Deservd much less advancement LEAR You Did you REGAN I pray you father being weak seem so If till the expiration of your month You will return and sojourn with my sister Dismissing half your train come then to me I am now from home and out of that provision Which shall be needful for your entertainment LEAR Return to her and fifty men dismissd No rather I abjure all roofs and choose To wage against the enmity o the air To be a comrade with the wolf and owlNecessitys sharp pinch Return with her Why the hotblooded France that dowerless took Our youngest born I could as well be brought To knee his throne and squirelike pension beg To keep base life afoot Return with her Persuade me rather to be slave and sumpter To this detested groom Pointing to Oswald GONERIL At your choice"
+            }
+          ],
+          "model": "granite4:350m",
+          "stream": true,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "bd1a3f75-6426-4dd8-a155-2a9899df8857",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " Or have a woman to your lord To Audrey and Touchstone You and you are sure together As the winter to foul weather Whiles a wedlock hymn we sing Feed yourselves with questioning That reason wonder may diminish How thus we met and these things finish SONG Wedding is great Junos crown O blessed bond of board and bed Tis Hymen peoples every town High wedlock then be honoured Honour high honour and renown To Hymen god of every town DUKE SENIOR O my dear niece welcome thou art to me Even daughter welcome in no less degree PHOEBE To Silvius I will not eat my word now thou art mine Thy faith my fancy to thee doth combine Enter Jaques de Boys JAQUES DE BOYS Let me have audience for a word or two I am the second son of old Sir Rowland That bring these tidings to this fair assembly Duke Frederick hearing how that every day Men of great worth resorted to this forest Addressed a mighty power which were on foot In his own conduct purposely to take His brother here and put him to the sword And to the skirts of this wild wood he came Where meeting with an old religious man After some question with him was converted Both from his enterprise and from the world His crown bequeathing to his banished brother And all their lands restored to them again That were with him exiled This to be true I do engage my life DUKE SENIOR Welcome young man Thou offerst fairly to thy brothers wedding To one his lands withheld and to the other A land itself at large a potent dukedom First in this forest let us do those ends That here were well begun and well begotAnd after every of this happy number That have endured shrewd days and nights with us Shall share the good of our returned fortune According to the measure of their states Meantime forget this newfalln dignity And fall into our rustic revelry Play music And you brides and bridegrooms all With measure heaped in joy to th measures fall JAQUES Sir by your patience If I heard you rightly The Duke hath put on a religious life And thrown into neglect the pompous court JAQUES DE BOYS He hath JAQUES To him will I Out of these convertites There is much matter to be heard and learned To Duke Senior You to your former honour I bequeath Your patience and your virtue well deserves it To Orlando You to a love that your true faith doth merit To Oliver You to your land and love and great allies To Silvius You to a long and welldeserved bed To Touchstone And you to wrangling for thy loving voyage Is but for two months victualledSo to your pleasures I am for other than for dancing"
+            }
+          ],
+          "model": "granite4:350m",
+          "stream": true,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    }
+  ]
+}

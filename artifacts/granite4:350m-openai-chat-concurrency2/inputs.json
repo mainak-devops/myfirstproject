@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "session_id": "7e2cc192-77e8-4147-a7fd-ac47438acff3",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": " be admitted But from her handmaid do return this answer The element itself till seven years heat Shall not behold her face at ample view But like a cloistress she will veiled walk And water once a day her chamber round With eyeoffending brine all this to season A brothers dead love which she would keep fresh And lasting in her sad remembrance DUKE O she that hath a heart of that fine frame To pay this debt of love but to a brother How will she love when the rich golden shaft Hath killd the flock of all affections else That live in her when liver brain and heart These sovereign thrones are all supplied and filldHer sweet perfections with one self king Away before me to sweet beds of flowers Lovethoughts lie rich when canopied with bowers Exeunt SCENE II The seacoast Enter Viola a Captain and Sailors VIOLA What country friends is this CAPTAIN This is Illyria lady VIOLA And what should I do in Illyria My brother he is in Elysium Perchance he is not drownd What think you sailors CAPTAIN It is perchance that you yourself were savd VIOLA O my poor brother and so perchance may he be CAPTAIN True madam and to comfort you with chance Assure yourself after our ship did split When you and those poor number savd with you Hung on our driving boat I saw your brother Most provident in peril bind himself Courage and hope both teaching him the practice To a strong mast that livd upon the sea Where like Arion on the dolphins back I saw him hold acquaintance with the waves So long as I could see VIOLA For saying so theres gold Mine own escape unfoldeth to my hope Whereto thy speech serves for authority The like of him Knowst thou this country CAPTAIN Ay madam well for I was bred and born Not three hours travel from this very place VIOLA Who governs here CAPTAIN A noble duke in nature as in name VIOLA What is his name CAPTAIN Orsino VIOLA Orsino I have heard my father name him He was a bachelor then CAPTAIN And so is now or was so very late For but a month ago I went from hence And then twas fresh in murmur as you know What great ones do the less will prattle of That he did seek the love of fair Olivia VIOLA Whats she CAPTAIN A virtuous maid the daughter of a count That died some twelvemonth since then leaving her In the protection of his son her brother Who shortly also died for whose dear love They say she hath abjurd the company And sight of men VIOLA O that I"
+            }
+          ],
+          "model": "granite4:350m",
+          "stream": true,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    },
+    {
+      "session_id": "9410f0d5-0a48-47b2-bace-36537eacdcba",
+      "payloads": [
+        {
+          "messages": [
+            {
+              "role": "user",
+              "content": "ience Which seemd too much enkindled and withal Hoping it was but an effect of humour Which sometime hath his hour with every man It will not let you eat nor talk nor sleep And could it work so much upon your shape As it hath much prevaild on your condition I should not know you Brutus Dear my lord Make me acquainted with your cause of grief BRUTUS I am not well in health and that is all PORTIA Brutus is wise and were he not in health He would embrace the means to come by it BRUTUS Why so I do Good Portia go to bed PORTIA Is Brutus sick and is it physical To walk unbraced and suck up the humours Of the dank morning What is Brutus sick And will he steal out of his wholesome bed To dare the vile contagion of the night And tempt the rheumy and unpurged air To add unto his sickness No my Brutus You have some sick offence within your mind Which by the right and virtue of my place I ought to know of and upon my knees I charm you by my once commended beauty By all your vows of love and that great vow Which did incorporate and make us one That you unfold to me your self your half Why you are heavy and what men tonight Have had resort to you for here have been Some six or seven who did hide their faces Even from darkness BRUTUS Kneel not gentle Portia PORTIA I should not need if you were gentle Brutus Within the bond of marriage tell me Brutus Is it excepted I should know no secrets That appertain to you Am I your self But as it were in sort or limitation To keep with you at meals comfort your bed And talk to you sometimes Dwell I but in the suburbs Of your good pleasure If it be no more Portia is Brutus harlot not his wife BRUTUS You are my true and honourable wife As dear to me as are the ruddy drops That visit my sad heart PORTIA If this were true then should I know this secret I grant I am a woman but withal A woman that Lord Brutus took to wife I grant I am a woman but withal A woman well reputed Catos daughter Think you I am no stronger than my sex Being so fatherd and so husbanded Tell me your counsels I will not disclose em I have made strong proof of my constancyGiving myself a voluntary wound Here in the thigh can I bear that with patience And not my husbands secrets BRUTUS O ye gods Render me worthy of this noble wife Knock Hark hark one knocks Portia go in awhile And by and by thy bosom shall partake The secrets of my heart All my engagements"
+            }
+          ],
+          "model": "granite4:350m",
+          "stream": true,
+          "stream_options": {
+            "include_usage": true
+          }
+        }
+      ]
+    }
+  ]
+}
